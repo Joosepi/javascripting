@@ -14,4 +14,4 @@ const person = {
 console.log(myName, myAge); //inspect console
 console.log(myChildren); // Array [] 5.
 console.log(CanYouRunFasterThanOtto); // Boolean 6.
-console.log(person) // saad panna naideks myName sinna (person.myName) et see oleks erinev key value.
+console.log(person); // saad panna naideks myName sinna (person.myName) et see oleks erinev key value.

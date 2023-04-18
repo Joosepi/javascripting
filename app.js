@@ -3,7 +3,7 @@
 const myName = "Martin Joosep Reiljan"; //String
 let myAge = 17; //Number
 const myChildren = ["Toomas","Hendrick"]; // array
-const CanYouRunFasterThanOtto = 'False'; // Boolean 
+const CanYouRunFasterThanOtto = False; // Boolean 
 const person = {
     myName: 'Martin Joosep Reiljan',
     myAge: 17,
